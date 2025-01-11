@@ -1,4 +1,4 @@
-# Mita Cursor Linux version
+# MiSide Mita Cursor Linux version
 Mita Cursor recoded by sreetx
 
 
