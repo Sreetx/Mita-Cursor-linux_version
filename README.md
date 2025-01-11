@@ -7,8 +7,18 @@ Initially this cursor was only available for Windows and Mac natively. So we rec
 
 # Support
 
-The person who made it: https://x.com/BLZ_pixel
-The person who recoded it: https://github.com/Sreetx
+The person who made it:
+
+    https://x.com/BLZ_pixel
+
+The person who recoded it:
+
+    https://github.com/Sreetx
+
 Keep supporting us (Subscribe)
-YouTube: https://www.youtube.com/@linggachannel4781
+
+YouTube:
+
+    https://www.youtube.com/@linggachannel4781
+    
 Subcribe and Follow for more information
