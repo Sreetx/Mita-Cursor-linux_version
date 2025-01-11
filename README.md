@@ -17,7 +17,7 @@ To see the contents of the file that was cloned earlier:
 
 Continue the previous one:
 
-    cd 'Mita Cursor linux_version'
+    cd 'Mita-Cursor-linux_version'
     sudo mv 'Mita Cursor' /usr/share/icons/
 
 Install and apply the icon from each DE setting
