@@ -37,7 +37,7 @@ Reboot your system to apply it:
 
 # Support
 
-The person who made it:
+The original creator of Mita Cursor:
 
     https://x.com/BLZ_pixel
 
