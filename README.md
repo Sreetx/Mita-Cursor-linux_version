@@ -1,5 +1,5 @@
 # MiSide Mita Cursor Linux version
-Mita Cursor recoded by sreetx
+Mita Cursor recoded by Sreetx
 
 
 we are not here to pirate other people's work. we only recode the cursor file so that it can be used on Debian-derived Linux OS such as Ubuntu, Kali Linux, Linux Lite, etc.
